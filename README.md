@@ -1,6 +1,10 @@
 # Automatic Prompt Augmentation and Selection with Chain-of-Thought from Labeled Data
 Source code for the EMNLP 2023 Findings paper entitled "Automatic Prompt Augmentation and Selection with Chain-of-Thought from Labeled Data" by KaShun SHUM et al.
 
+## Model Architecture
+The illustration of our method is shown in the figure below.
+![Architecture](./assets/method.png)
+
 ## Repo structure
 ### Dataset Format
 ```
